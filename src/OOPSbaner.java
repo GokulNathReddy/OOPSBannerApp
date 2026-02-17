@@ -1,6 +1,7 @@
-package OOPSBannerApp;
-public class OopsSimple {
-    public static void main(String[] args) {
+package OOPSBannerApp.src;
+
+public class OOPSbaner {
+        public static void main(String[] args) {
         // Hardcoded "OOPS"
         System.out.println(" *** *** **** **** ");
         System.out.println("* * * * * * * ");
@@ -9,3 +10,7 @@ public class OopsSimple {
         System.out.println(" *** *** * **** ");
     }
 }
+
+
+
+
